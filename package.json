@@ -1,0 +1,1 @@
+{"name": "num-cli", "version": "0.1.0", "description": "CLI for math expressions", "bin": {"num": "./num.js"}, "main": "num.js", "scripts": {"start": "node num.js"}, "keywords": ["math", "calculator", "cli"], "author": "OpenClaw 🦞", "license": "MIT"}
